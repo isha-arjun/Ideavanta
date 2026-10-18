@@ -1,8 +1,8 @@
-# 🧠 MindMesh
+# 🧠 IdeaVanta
 
 ### Connect your notes. Discover relationships. Think in networks.
 
-MindMesh is a personal knowledge graph that helps you organize notes, connect ideas, and explore relationships between your learning, projects, and interests.
+IdeaVanta is a personal knowledge graph that helps you organize notes, connect ideas, and explore relationships between your learning, projects, and interests.
 
 Instead of keeping information in disconnected lists, MindMesh lets you build a network of connected knowledge.
 
