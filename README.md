@@ -39,17 +39,22 @@ cd MindMesh
 ```
 
 2. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 
 3. Run MindMesh
+```bash
 streamlit run mindmesh_app.py
-
+```
 
 4. Open the app
 Streamlit will display a local URL in your terminal, usually:
+```bash
 http://localhost:8501
 Open that address in your browser.
+
 📂 Project Structure
 MindMesh/
 ├── mindmesh_app.py   # Main application
@@ -57,6 +62,7 @@ MindMesh/
 ├── README.md         # Project documentation
 ├── LICENSE           # MIT License
 └── .gitignore        # Files excluded from Git
+```
 
 
 💾 Data and Privacy
