@@ -1,5 +1,3 @@
-# MindMesh
-A personal knowledge graph for connecting notes, ideas, and projects.
 # 🧠 MindMesh
 
 ### Connect your notes. Discover relationships. Think in networks.
@@ -38,6 +36,7 @@ Instead of keeping information in disconnected lists, MindMesh lets you build a 
 ```bash
 git clone https://github.com/isha-arjun/MindMesh.git
 cd MindMesh
+```
 
 2. Install dependencies
 pip install -r requirements.txt
